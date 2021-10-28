@@ -2,10 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Backstage-component
-  description: Gitops Flux Helm demo
+  description: Backstage test component
   tags:
-    - gitops
+    - example
 spec:
   type: service
-  lifecycle: production
-  owner: user:guest
+  lifecycle: experimental
+  owner: fireFighters
