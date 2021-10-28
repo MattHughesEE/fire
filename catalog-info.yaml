@@ -3,7 +3,7 @@ kind: Component
 metadata:
   namespace: Spongebob
   name: ComponentService
-  description: "Backstage service component"
+  description: test
   annotations:
     pagerduty.com/service_id: EXAMPLE
   tags:
