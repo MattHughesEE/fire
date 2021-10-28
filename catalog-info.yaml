@@ -2,8 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   namespace: Spongebob
-  name: Component Service
-  description: Backstage service component
+  name: "Component Service"
+  description: 'Backstage service component'
   annotations:
     pagerduty.com/service_id: EXAMPLE
   tags:
