@@ -1,11 +1,15 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: gitops-flux-helm
-  description: Gitops Flux Helm demo
+  namespace: Spongebob
+  name: Component Service
+  description: Backstage service component
+  annotations:
+    pagerduty.com/service_id: EXAMPLE
   tags:
-    - gitops
+    - backstageTest
 spec:
   type: service
   lifecycle: production
-  owner: user:guest
+  owner: fireFighters
+  system: mirror
