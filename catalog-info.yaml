@@ -1,8 +1,18 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Backstage-component
+  name: Backstage-flux
   description: Backstage test component
+  tags:
+    - example
+spec:
+  type: service
+  lifecycle: experimental
+  owner: fireFighters
+kind: Component
+metadata:
+  name: Backstage-timemachine
+  description: Backstage test component2
   tags:
     - example
 spec:
