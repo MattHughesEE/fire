@@ -9,13 +9,3 @@ spec:
   type: service
   lifecycle: experimental
   owner: fireFighters
-kind: Component
-metadata:
-  name: Backstage-timemachine
-  description: Backstage test component2
-  tags:
-    - example
-spec:
-  type: service
-  lifecycle: experimental
-  owner: fireFighters
