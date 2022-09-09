@@ -1,11 +1,9 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: Location
 metadata:
-  name: Backstage-flux
-  description: Backstage test component
-  tags:
-    - example
+  name: exmple-components
+  description: A collection of all services that the FireHydrant catalog should point to an ingest
 spec:
-  type: service
-  lifecycle: experimental
-  owner: fireFighters
+  targets:
+    - ./service_1.yaml
+    - ./service_2.yaml
