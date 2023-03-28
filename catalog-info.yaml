@@ -7,3 +7,4 @@ spec:
   targets:
     - ./service_1.yaml
     - ./service_2.yaml
+    - ./service_3.yaml
