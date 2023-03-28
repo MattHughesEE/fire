@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: artist-look-up
+  name: GizmoGadget
   description: sample backstage component
   tags:
     - sample
