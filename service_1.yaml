@@ -31,4 +31,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: backend-engineering-team
-  dependsOn: ['resource: epic']
+  dependsOn: ['resource: ansible-elk']
