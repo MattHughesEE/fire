@@ -1,13 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: GizmoGadgets
+  name: GizmoGadgetz
   description: sample backstage component
   tags:
     - sample
   links:
     - url: https://example.com/user
-      title: Examples Use
+      title: Examples Userss
       icon: user
     - url: https://example.com/group
       title: Example Group
