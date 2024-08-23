@@ -7,7 +7,7 @@ metadata:
     - sample
   links:
     - url: https://example.com/user
-      title: Examples Users
+      title: Examples Use
       icon: user
     - url: https://example.com/group
       title: Example Group
