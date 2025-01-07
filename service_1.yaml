@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: GizmoGadgetz
+  name: GizmoGadgetz25
   description: sample backstage component
   tags:
     - sample
