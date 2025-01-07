@@ -8,4 +8,4 @@ spec:
     - ./service_1.yaml
     - ./service_2.yaml
     - ./service_3.yaml
-    - ./app/service_5.yaml
+    - ./*/service_5.yaml
